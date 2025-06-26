@@ -1,2 +1,2 @@
-#ESP32-CAM-Project made with arduino
-#C Syntax
+# ESP32-CAM-Project made with arduino
+# C Syntax
